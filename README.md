@@ -1,9 +1,9 @@
 <h1 align="center">Xin chào 👋, tôi là Nguyen Quang Minh</h1>
 <h3 align="center">Một người bình thường ( không có gì đặc biệt )</h3>
 
-- 📧 Gmail **MikuBaka2608@gmail.com**
+- 📧 Gmail: **MikuBaka2608@gmail.com**
 
-- ⚡ Fun fact **Không có gì cả**
+- ⚡ Fun fact: **Không có gì cả**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
